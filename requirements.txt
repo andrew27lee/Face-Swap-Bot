@@ -1,0 +1,6 @@
+discord.py==1.7.3
+dlib==19.23.1
+numpy==1.22.3
+opencv-python==3.4.17.63
+python-dotenv==0.20.0
+scipy==1.8.0
