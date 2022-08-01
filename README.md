@@ -1,6 +1,4 @@
 # FaceSwap
-[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/andrew27lee/FaceSwap?branch=master)
-
 Swap the face from one image onto the face(s) of another image or your own face using Python 3 with OpenCV and dlib.
 
 ## Deploy Using Docker
